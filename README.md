@@ -1,7 +1,20 @@
-# Getting Started with Create React App
+# Sorteador de amigo invisível
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto criado a partir do curso da ALURA de React com teste jest
 
+## Testes de:
+> Comportamento\
+> Função pura\
+> Snapshot\
+> Interação com elementos
+
+Conceito de TDD - Test Driven Development
+Desenvolvimento orientado ao teste, primeiro escreve o teste, depois o elemento.\
+Piramide de teste:\
+Interface\
+Serviços\
+Unidade
+    
 ## Available Scripts
 
 In the project directory, you can run:
